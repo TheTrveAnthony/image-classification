@@ -1,4 +1,3 @@
-#include <opencv2/core/core.hpp>
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
 #include <opencv2/dnn.hpp>
@@ -6,8 +5,6 @@
 
 #include <iostream>
 #include <fstream>
-#include <sstream>
-
 
 using namespace std;
 using namespace cv;
